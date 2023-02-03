@@ -1,3 +1,13 @@
+import br.com.zup.orangetalents.vacina.dtos.UsuarioDto
+import br.com.zup.orangetalents.vacina.mappers.toDto
+import br.com.zup.orangetalents.vacina.mappers.toResponse
+import br.com.zup.orangetalents.vacina.message.request.UsuarioPostRequest
+import br.com.zup.orangetalents.vacina.message.response.UsuarioPostResponse
+import br.com.zup.orangetalents.vacina.service.IServiceGenerics
+import org.springframework.http.ResponseEntity
+import org.springframework.web.bind.annotation.*
+import javax.validation.Valid
+
 br/com/zup/FreteRequest.java
  br.com.zup.FreteRequest
  br.com.zup.FreteRequest$1
