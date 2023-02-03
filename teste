@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    teste = "abc.zup.corp"
+    teste = "zup.corp.com"
+    teste = "abc.zup.corp.com"
+    
+    teste = "br.com.zup"
+    teste = "br.com.zup.asdasd.asdasd.asdasd"
